@@ -1,4 +1,4 @@
-# calculadorahipotenusa
+## Calculadora de Hipotenusa
 Calculadora de hipotenusa simples de um triângulo pitagórico utilizando Javascript, HTML e CSS. Para utilizar a calculadora, basta inserir dois valores numéricos nos inputs dos catetos A e B,
 depois, aperte o botão "CALCULE" e o resultado da hipotenusa aparecerá na tela. 
 
